@@ -1,4 +1,4 @@
-# Git demo on monday morning
+# Git demo on tuesday morning
 
 ## Feature 1
 
